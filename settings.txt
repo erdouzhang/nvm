@@ -1,0 +1,4 @@
+root:  C:\Develop\nvm
+path:  C:\Develop\nodejs
+arch: 64 
+proxy: none
